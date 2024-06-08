@@ -11,11 +11,10 @@ using System.Threading.Tasks;
     Equals
     string.StartsWith
     IndexOf
-ToLower()
-
-Array.Resize
-List.Any();
-Convert.ToInt32
+    ToLower()
+    Array.Resize
+    List.Any();
+    Convert.ToInt32
 
  */
 

@@ -5,7 +5,7 @@ using System.Threading;
 
 
 /*
- * 문자열 겹쳐쓰기 
+ * Lv.0 : 문자열 겹쳐쓰기 
  */
 public class Solution_181943
 {

@@ -3,8 +3,7 @@ using System.Collections.Generic;
 using System.IO;
 
 /*
- * 카운트 다운 
- * 
+ * Lv. 0 : 카운트 다운 
  */
 public class Solution_181899
 {
