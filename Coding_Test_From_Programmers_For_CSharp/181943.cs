@@ -7,7 +7,7 @@ using System.Threading;
 /*
  * 문자열 겹쳐쓰기 
  */
-public class Solution
+public class Solution_181943
 {
     public string solution(string my_string, string overwrite_string, int s)
     {
@@ -45,14 +45,14 @@ public class Solution
     }
 
 
-    public static void Main()
-    {
-        Solution instance = new Solution();
-        string my_string = "He11oWor1d";
-        string overwrite_string = "lloWorl";
-        int s = 2;
-        string result = instance.solution(my_string, overwrite_string, s);
+    //public static void Main()
+    //{
+    //    Solution_181943 instance = new Solution_181943();
+    //    string my_string = "He11oWor1d";
+    //    string overwrite_string = "lloWorl";
+    //    int s = 2;
+    //    string result = instance.solution(my_string, overwrite_string, s);
 
-        Console.WriteLine($"{result}");
-    }
+    //    Console.WriteLine($"{result}");
+    //}
 }
