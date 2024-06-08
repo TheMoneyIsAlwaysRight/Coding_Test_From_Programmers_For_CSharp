@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="Lv.0\181899.cs" />
     <Compile Include="Lv.0\181901.cs" />
+    <Compile Include="Lv.0\181906.cs" />
     <Compile Include="Lv.0\181941.cs" />
     <Compile Include="Lv.0\181942.cs" />
     <Compile Include="Lv.0\181943.cs" />
