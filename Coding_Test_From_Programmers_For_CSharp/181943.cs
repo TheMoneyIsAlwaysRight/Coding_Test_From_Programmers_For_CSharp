@@ -44,15 +44,4 @@ public class Solution_181943
 
     }
 
-
-    //public static void Main()
-    //{
-    //    Solution_181943 instance = new Solution_181943();
-    //    string my_string = "He11oWor1d";
-    //    string overwrite_string = "lloWorl";
-    //    int s = 2;
-    //    string result = instance.solution(my_string, overwrite_string, s);
-
-    //    Console.WriteLine($"{result}");
-    //}
 }
