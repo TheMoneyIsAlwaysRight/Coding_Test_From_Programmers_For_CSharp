@@ -53,9 +53,15 @@ using System.Threading.Tasks;
 
    <Static>     Array.Resize<T>(ref Array<T> arrayName,int size) : 그 배열을 참조해서(ref) 크기를 size만큼으로 조절. size보다 큰 index에 있던 데이터들은 전부 삭제됨.
                 ->Array.Resize(ref arrayName,size);
-                                               
+                               
+   <Static>     Convert.ToString(int value,int number) : value 값을 number형 진수로 변환한 문자열을 string형 반환. 이때 2,8,10,16만 가능. 다른 수는 예외 발생.
+                ->Convert.ToString(value,Number);
+
    <Static>     Convert.ToInt32(Object value) : 매개변수의 객체을 int형으로 변환 -> int형 반환.
                 ->Convert.ToInt32(value);
+
+   <Static>     Convert.ToInt32(Object value,int Number) : 매개변수의 객체을 Number형(2,8,10,16)진수로 문자열로 바꾸고 그 문자열을 int형으로 변환 -> int형 반환.
+                ->Convert.ToInt32(value,Number);
 
    <Static>     Convert.ToDouble(Object value) : 매개변수의 객체을 double형으로 변환 -> double형 반환.
                 ->Convert.ToDouble(value);
