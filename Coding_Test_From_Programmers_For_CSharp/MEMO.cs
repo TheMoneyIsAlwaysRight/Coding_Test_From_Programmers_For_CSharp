@@ -18,7 +18,7 @@ using System.Threading.Tasks;
     String.Concat
     String.IsNullOrEmpty(String)
     String.Replace
-    Int32.TryParse
+    Int32.TryParse.
 
     <<System.Linq>> ******************************
     Enumerable.Any
@@ -30,6 +30,12 @@ using System.Threading.Tasks;
     List<T>.ToArray
     Enumerable.ToList<TSource>
 
+
+    정리안된 목록
+    Array.Sort(answerList);
+    Array.Reverse
+    Convert.ToDouble
+    Encoding.ASCII.GetChars(Encoding.ASCII.GetBytes(n.ToString()));  
  */
 
 public class MEMO
