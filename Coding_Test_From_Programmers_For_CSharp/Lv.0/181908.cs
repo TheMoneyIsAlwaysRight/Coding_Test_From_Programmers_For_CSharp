@@ -28,12 +28,4 @@ public class Solution_181908
 
         return 0;
     }
-    public static void Main()
-    {
-        Solution_181908 instance = new Solution_181908();
-
-        int result = instance.solution($"banana", "ana");
-
-        Console.Write(result);
-    }
 }

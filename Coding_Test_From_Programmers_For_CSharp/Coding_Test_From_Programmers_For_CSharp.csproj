@@ -49,6 +49,8 @@
     <Compile Include="Lv.0\181907.cs" />
     <Compile Include="Lv.0\181908.cs" />
     <Compile Include="Lv.0\181915.cs" />
+    <Compile Include="Lv.0\181931.cs" />
+    <Compile Include="Lv.0\181932.cs" />
     <Compile Include="Lv.0\181934.cs" />
     <Compile Include="Lv.0\181941.cs" />
     <Compile Include="Lv.0\181942.cs" />
