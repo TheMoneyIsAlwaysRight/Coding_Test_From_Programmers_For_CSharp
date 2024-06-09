@@ -56,6 +56,7 @@
     <Compile Include="Lv.0\181941.cs" />
     <Compile Include="Lv.0\181942.cs" />
     <Compile Include="Lv.0\181943.cs" />
+    <Compile Include="Lv.1\12933.cs" />
     <Compile Include="MEMO.cs" />
     <Compile Include="Start.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
