@@ -76,6 +76,7 @@ using System.Threading.Tasks;
                 ->Int32.TryParse(instance,out int result)
 
 
+
 ************************************** <<System.Linq>> ****************************************************************************************************
 
   <Extension>   Enumerable.Any(this System.Collections.Generic.IEnumerable source) : 시퀀스에 요소가 하나라도 있는지 검사 -> bool형 반환.
@@ -95,11 +96,14 @@ using System.Threading.Tasks;
                 -> Enumerable.Distinct(arrayName);
 
 
+
 ************************************************ <<System.Collections.Generic>> ************************************************************************************************
 
 
                 List<T>.ToArray() : 컬렉션의 요소들을 새 배열에 복사하고 그 배열을 반환. ->   T[]형 반환.
                 -> instance_List.ToArray();
+
+
 
 ************************************************<<System.Text>>************************************************************************************************
     ->좀 더 R%D 필요.
@@ -107,6 +111,15 @@ using System.Threading.Tasks;
                 Encoding.ASCII.GetChars(Byte[]) : 바이트 배열을 디코딩하여 Char형 문자 배열로 변환한다.
 
                 Encoding.ASCII.GetBytes(String string) :  해당 문자열을 ASCII 인코딩된 바이트 배열로 변환한다.
+
+
+ 
+ **********************************************정리 안된  목록들************************************************************************
+                Split
+ 
+ 
+ 
+ 
  */
 
 public class MEMO
