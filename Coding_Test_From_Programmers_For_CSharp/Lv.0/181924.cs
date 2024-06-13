@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-// Lv.0 : q수열과 구간 쿼리 3
+// Lv.0 : 수열과 구간 쿼리 3
 public class Solution_181924
 {
 
