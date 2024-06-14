@@ -101,6 +101,8 @@ using System.Threading.Tasks;
                 -> arrayName.Distinct();
                 -> Enumerable.Distinct(arrayName);
 
+  <Extension>   Enumerable.FirstOrDefault(this IEnumerable, Func<TSource,Boolean>, TSource) : 컬렉션에서 람다식에 부합하는 요소가 있으면 반환 없을 경우, 그 컬렉션의 기본값 객체 반환.
+                -> Dictionary.FirstOrDefault(item, item => item.GetComponent().IsClear) => 딕셔너리 요소탐색에 람다식 사용가능
 
 
 ************************************************ <<System.Collections.Generic>> ************************************************************************************************
